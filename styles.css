@@ -1,0 +1,114 @@
+
+
+
+:root{
+    --first-color: #d8746f;
+    --second-color: #24788F;
+    --third-color: #849DAB;
+    --forth-color: #ad766e;
+    --fifth-color: #30263a;
+}
+
+body{
+    color: var(--first-color);
+    background-color: var(--fifth-color);
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.nav{
+    color: var(--second-color);
+    background-color: var(--third-color);
+    text-decoration: none;
+    text-align: center;
+    font-size: medium;
+    padding: 1rem;
+    margin: 5%;
+    border-radius: 0.5rem;
+}
+
+.nav-b{
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--second-color);
+}
+
+.navi{
+    text-decoration: none;
+    color: var(--first-color);
+}
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    text-align: center;
+    
+}
+
+/* .input{
+    text-align: center;
+} */
+
+#button-submit{
+    text-align: center;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    color: var(--second-color);
+    background-color: var(--third-color);
+    margin-top: 10%;
+}
+
+#button-hypotenuse{
+    text-align: center;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    color: var(--second-color);
+    background-color: var(--third-color);
+    margin-top: 10%;
+    text-decoration: none;
+}
+
+#button-area{
+    text-align: center;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    color: var(--second-color);
+    background-color: var(--third-color);
+    margin-top: 10%;
+}
+
+#output-quiz{
+    margin: 10%;
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(241, 167, 56);
+}
+
+#output-hypotenuse{
+    margin: 10%;
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(241, 167, 56);
+}
+
+#output-area{
+    margin: 10%;
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(241, 167, 56);
+}
+
+#output-answer{
+    margin: 10%;
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(241, 167, 56);
+}
+
+
+

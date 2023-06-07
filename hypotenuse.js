@@ -18,6 +18,3 @@ function calculateHypotenuse(){
 
 buttonHypotenuse.addEventListener('click', calculateHypotenuse);
 
-function calculateHypotenuse(){
-    console.log("clicked");
-}
