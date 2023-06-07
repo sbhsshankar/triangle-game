@@ -54,80 +54,93 @@ p{
     text-align: center;
 } */
 
+.label{
+    display: block;
+    margin-bottom: 0.5rem;
+}
 
 
 .input-angle{
-    text-align: center;
+    display: inline-block;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
-    margin: 1rem 1rem;
+    margin-bottom: 1rem;
 }
 
 .input-bh{
     text-align: center;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
-    margin: 1rem 1rem;
+    margin-bottom: 1rem;
 }
 
 .side-input{
     text-align: center;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
-    margin: 1rem 1rem;
+    margin-bottom: 1rem;
 }
 
 #button-submit{
+    display: block;
     text-align: center;
+    margin-left: 30%;
+    width: 40%;
+    margin-right: 30%;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     color: var(--second-color);
     background-color: var(--third-color);
-    margin-top: 10%;
+    margin-top: 1.5rem;
 }
 
 #button-hypotenuse{
     text-align: center;
+    margin-left: 30%;
+    width: 40%;
+    margin-right: 30%;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     color: var(--second-color);
     background-color: var(--third-color);
-    margin-top: 10%;
-    text-decoration: none;
+    margin-top: 1.5rem;
 }
 
 #button-area{
     text-align: center;
+    margin-left: 30%;
+    width: 40%;
+    margin-right: 30%;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     color: var(--second-color);
     background-color: var(--third-color);
-    margin-top: 10%;
+    margin-top: 1.5rem;
 }
 
 #output-quiz{
-    margin: 10%;
+    margin: 3rem;
     font-weight: bolder;
     font-size: larger;
     color: rgb(241, 167, 56);
 }
 
 #output-hypotenuse{
-    margin: 10%;
+    margin: 3rem;
     font-weight: bolder;
     font-size: larger;
     color: rgb(241, 167, 56);
 }
 
 #output-area{
-    margin: 10%;
+    margin: 3rem;
     font-weight: bolder;
     font-size: larger;
     color: rgb(241, 167, 56);
 }
 
 #output-answer{
-    margin: 10%;
+    margin: 3rem;
     font-weight: bolder;
     font-size: larger;
     color: rgb(241, 167, 56);
