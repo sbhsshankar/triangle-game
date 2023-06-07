@@ -4,8 +4,8 @@ const inputSide = document.querySelectorAll(".side-input");
 const buttonHypotenuse = document.querySelector("#button-hypotenuse");
 const outputHypotenuse = document.querySelector("#output-hypotenuse");
 
-function calculateSumOfSquares(a, b){
-    const sumOfSquares = a*a + b*b;
+function calculateSumOfSquares(c, d){
+    const sumOfSquares = c*c + d*d;
     return sumOfSquares;
 }
 
@@ -17,3 +17,7 @@ function calculateHypotenuse(){
 }
 
 buttonHypotenuse.addEventListener('click', calculateHypotenuse);
+
+function calculateHypotenuse(){
+    console.log("clicked");
+}
