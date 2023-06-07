@@ -95,8 +95,9 @@ p{
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     color: var(--second-color);
-    background-color: var(--third-color);
+    background-color: beige;
     margin-top: 1.5rem;
+    font-weight: bold;
 }
 
 #button-hypotenuse{
@@ -107,8 +108,9 @@ p{
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     color: var(--second-color);
-    background-color: var(--third-color);
+    background-color: beige;
     margin-top: 1.5rem;
+    font-weight: bold;
 }
 
 #button-area{
@@ -119,8 +121,9 @@ p{
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     color: var(--second-color);
-    background-color: var(--third-color);
+    background-color: beige;
     margin-top: 1.5rem;
+    font-weight: bold;
 }
 
 #output-quiz{
