@@ -33,11 +33,16 @@ body{
     text-decoration: none;
     font-weight: bold;
     color: var(--second-color);
+    background-color: beige;
+    padding: 1rem 2rem;
 }
 
 .navi{
     text-decoration: none;
     color: var(--first-color);
+    padding: 1rem 2rem;
+
+    
 }
 
 h1{
