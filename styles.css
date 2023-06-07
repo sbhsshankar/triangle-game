@@ -54,6 +54,29 @@ p{
     text-align: center;
 } */
 
+
+
+.input-angle{
+    text-align: center;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    margin: 1rem 1rem;
+}
+
+.input-bh{
+    text-align: center;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    margin: 1rem 1rem;
+}
+
+.side-input{
+    text-align: center;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    margin: 1rem 1rem;
+}
+
 #button-submit{
     text-align: center;
     padding: 0.5rem 1rem;
